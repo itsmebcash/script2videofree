@@ -1704,6 +1704,17 @@ export default function Home() {
               Privacy
             </a>
           </nav>
+          <p className="text-center text-sm leading-loose text-blue-700">
+            Made with ❤️ by{" "}
+            <a
+              href="https://www.linkedin.com/in/itsmebcash"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium hover:underline hover:text-blue-600"
+            >
+              Bikash Sharma
+            </a>
+          </p>
         </div>
       </footer>
     </div>
